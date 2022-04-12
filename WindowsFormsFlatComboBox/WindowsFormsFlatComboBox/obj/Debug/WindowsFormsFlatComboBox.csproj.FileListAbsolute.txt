@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\bin\Debug\WindowsFormsFlatComboBox.exe.config
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\bin\Debug\WindowsFormsFlatComboBox.exe
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\bin\Debug\WindowsFormsFlatComboBox.pdb
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\obj\Debug\WindowsFormsFlatComboBox.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\obj\Debug\WindowsFormsFlatComboBox.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\obj\Debug\WindowsFormsFlatComboBox.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\obj\Debug\WindowsFormsFlatComboBox.exe
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\obj\Debug\WindowsFormsFlatComboBox.pdb
+C:\Users\user\Desktop\WindowsFormsFlatComboBox\WindowsFormsFlatComboBox\obj\Debug\WindowsFormsFlatComboBox.Form1.resources
